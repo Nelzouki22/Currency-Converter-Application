@@ -20,6 +20,8 @@ How to Run
 Clone this repository:
 bash
 git clone https://github.com/yourusername/currency-converter.git
+
+
 Open the project in your preferred IDE (e.g., Visual Studio).
 Build and run the project.
 Follow the on-screen instructions to select a conversion type and enter the amount.
