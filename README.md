@@ -57,8 +57,11 @@ Contact
 If you have any questions or suggestions, feel free to reach out:
 
 Email: elzoukigroup2018@gmail.com
+
 GitHub: Nelzouki22
+
 LinkedIn: Nadir Elzouki
+
 YouTube: Nadir Elzouki
 
 
